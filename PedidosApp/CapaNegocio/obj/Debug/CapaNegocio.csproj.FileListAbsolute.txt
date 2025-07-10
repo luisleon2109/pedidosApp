@@ -1,0 +1,54 @@
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\CapaNegocio\obj\Debug\CapaNegocio.pdb

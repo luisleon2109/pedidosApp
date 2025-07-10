@@ -1,0 +1,36 @@
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\CapaDatos\bin\Debug\CapaDatos.dll
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\CapaDatos\obj\Debug\CapaDatos.dll
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\CapaDatos\obj\Debug\CapaDatos.pdb

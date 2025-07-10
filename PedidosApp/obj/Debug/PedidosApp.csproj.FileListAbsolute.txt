@@ -1,0 +1,135 @@
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\obj\Debug\PedidosApp.csproj.AssemblyReference.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\obj\Debug\PedidosApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\obj\Debug\PedidosApp.Properties.Resources.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\obj\Debug\PedidosApp.csproj.GenerateResource.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\obj\Debug\PedidosApp.FrmPrincipal.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\bin\Debug\PedidosApp.exe.config
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\bin\Debug\PedidosApp.exe
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\bin\Debug\PedidosApp.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\bin\Debug\CapaNegocio.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\bin\Debug\CapaNegocio.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\obj\Debug\PedidosApp.csproj.CopyComplete
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\obj\Debug\PedidosApp.exe
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\obj\Debug\PedidosApp.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\bin\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\bin\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\obj\Debug\PedidosApp.FrmArticulo.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp\obj\Debug\PedidosApp.FrmVistaCategoria_Articulo.resources
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\bin\Debug\PedidosApp.exe.config
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\bin\Debug\PedidosApp.exe
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\bin\Debug\PedidosApp.pdb
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\bin\Debug\CapaNegocio.dll
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\bin\Debug\FontAwesome.Sharp.dll
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\bin\Debug\CapaDatos.dll
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\bin\Debug\CapaNegocio.pdb
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\bin\Debug\CapaDatos.pdb
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\obj\Debug\PedidosApp.csproj.AssemblyReference.cache
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\obj\Debug\PedidosApp.csproj.SuggestedBindingRedirects.cache
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\obj\Debug\PedidosApp.FrmArticulo.resources
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\obj\Debug\PedidosApp.FrmPrincipal.resources
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\obj\Debug\PedidosApp.FrmVistaCategoria_Articulo.resources
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\obj\Debug\PedidosApp.Properties.Resources.resources
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\obj\Debug\PedidosApp.csproj.GenerateResource.cache
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\obj\Debug\PedidosApp.csproj.CopyComplete
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\obj\Debug\PedidosApp.exe
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\obj\Debug\PedidosApp.pdb
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\obj\Debug\PedidosApp.FrmCategoria.resources
+E:\JMDTEC1\effe\Universidad\DESARROLLO DE SISTEMAS\PedidosApp\obj\Debug\PedidosApp.FrmPresentacion.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\bin\Debug\PedidosApp.exe.config
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\bin\Debug\PedidosApp.exe
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\bin\Debug\PedidosApp.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\bin\Debug\CapaNegocio.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\bin\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\bin\Debug\CapaNegocio.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\bin\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\obj\Debug\PedidosApp.csproj.AssemblyReference.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\obj\Debug\PedidosApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\obj\Debug\PedidosApp.FrmArticulo.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\obj\Debug\PedidosApp.FrmCategoria.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\obj\Debug\PedidosApp.FrmPresentacion.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\obj\Debug\PedidosApp.FrmPrincipal.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\obj\Debug\PedidosApp.FrmVistaCategoria_Articulo.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\obj\Debug\PedidosApp.Properties.Resources.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\obj\Debug\PedidosApp.csproj.GenerateResource.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\obj\Debug\PedidosApp.csproj.CopyComplete
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\obj\Debug\PedidosApp.exe
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\obj\Debug\PedidosApp.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\PedidosApp\obj\Debug\PedidosApp.FrmProveedor.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\bin\Debug\PedidosApp.exe.config
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\bin\Debug\PedidosApp.exe
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\bin\Debug\PedidosApp.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\bin\Debug\CapaNegocio.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\bin\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\bin\Debug\CapaNegocio.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\bin\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\obj\Debug\PedidosApp.csproj.AssemblyReference.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\obj\Debug\PedidosApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmArticulo.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmCategoria.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmPresentacion.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmPrincipal.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmProveedor.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmVistaCategoria_Articulo.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\obj\Debug\PedidosApp.Properties.Resources.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\obj\Debug\PedidosApp.csproj.GenerateResource.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\obj\Debug\PedidosApp.csproj.CopyComplete
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\obj\Debug\PedidosApp.exe
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\obj\Debug\PedidosApp.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmIngreso.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\bin\Debug\PedidosApp.exe.config
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\bin\Debug\PedidosApp.exe
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\bin\Debug\PedidosApp.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\bin\Debug\CapaNegocio.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\bin\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\bin\Debug\CapaNegocio.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\bin\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\obj\Debug\PedidosApp.csproj.AssemblyReference.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\obj\Debug\PedidosApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmArticulo.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmCategoria.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmIngreso.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmPresentacion.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmPrincipal.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmProveedor.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmVistaCategoria_Articulo.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\obj\Debug\PedidosApp.Properties.Resources.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\obj\Debug\PedidosApp.csproj.GenerateResource.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\obj\Debug\PedidosApp.csproj.CopyComplete
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\obj\Debug\PedidosApp.exe
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\obj\Debug\PedidosApp.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\obj\Debug\PedidosApp.Login.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 29-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmTrabajador.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\bin\Debug\PedidosApp.exe.config
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\bin\Debug\PedidosApp.exe
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\bin\Debug\PedidosApp.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\bin\Debug\CapaNegocio.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\bin\Debug\CapaDatos.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\bin\Debug\CapaNegocio.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\bin\Debug\CapaDatos.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\obj\Debug\PedidosApp.csproj.AssemblyReference.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\obj\Debug\PedidosApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmArticulo.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmCategoria.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmIngreso.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmPresentacion.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmPrincipal.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmProveedor.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmTrabajador.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\obj\Debug\PedidosApp.FrmVistaCategoria_Articulo.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\obj\Debug\PedidosApp.Login.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\obj\Debug\PedidosApp.Properties.Resources.resources
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\obj\Debug\PedidosApp.csproj.GenerateResource.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\obj\Debug\PedidosApp.csproj.CopyComplete
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\obj\Debug\PedidosApp.exe
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\DESARROLLO DE SISTEMAS\DESARROLLO\PedidosApp2\Todo-Funcionando-27-08-2024\Todo Funcionando 30-08-2024\PedidosApp\obj\Debug\PedidosApp.pdb
